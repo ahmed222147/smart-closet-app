@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65847183555",
+    "project_id": "clothe-closet-app",
+    "storage_bucket": "clothe-closet-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65847183555:android:11e67bda98e612c13a3a76",
+        "android_client_info": {
+          "package_name": "com.example.clothe_closet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-R74BRYe-BEs0mqu8Ccvvq3N1xrE-ggM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
